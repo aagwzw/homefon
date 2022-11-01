@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CanalDeco" tvg-logo="https://images.vexels.com/media/users/3/208450/isolated/preview/910d7ee86479761d5ae2ead480028f35-icono-de-trazo-de-decodificador-de-control-remoto.png" group-title="Deco",CanalDeco
 http://192.168.1.102:8080/live
+
+#EXTINF:-1 tvg-id="" tvg-name="Evento" tvg-logo="https://www.nicepng.com/png/detail/30-306155_image-sports-events.png" group-title="Deco",Evento
+http://test.robotrun.cfd:8080/live/1871667297550322/801667297550322/5671.ts
