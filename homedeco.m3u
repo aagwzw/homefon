@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CanalDeco" tvg-logo="https://images.vexels.com/media/users/3/208450/isolated/preview/910d7ee86479761d5ae2ead480028f35-icono-de-trazo-de-decodificador-de-control-remoto.png" group-title="Deco",CanalDeco
-http://192.168.1.102:8080/live
-
-#EXTINF:-1 tvg-id="" tvg-name="Evento" tvg-logo="https://www.nicepng.com/png/detail/30-306155_image-sports-events.png" group-title="Deco",Evento
-http://test.robotrun.cfd:8080/live/7411667383896647/9511667383896647/5671.ts
-
+http://192.168.1.100:8080/live
+#EXTINF:-1 tvg-id="" tvg-name="DaznLiga" tvg-logo="https://images.vexels.com/media/users/3/208450/isolated/preview/910d7ee86479761d5ae2ead480028f35-icono-de-trazo-de-decodificador-de-control-remoto.png" group-title="Deco",DaznLiga
+http://test.golstar.cfd:8080/live/4581668076728472/8681668076728472/25125.ts
+#EXTINF:-1 tvg-id="" tvg-name="DaznLiga2" tvg-logo="https://images.vexels.com/media/users/3/208450/isolated/preview/910d7ee86479761d5ae2ead480028f35-icono-de-trazo-de-decodificador-de-control-remoto.png" group-title="Deco",DaznLiga2
+http://test.golstar.cfd:8080/live/4581668076728472/8681668076728472/25127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga1" tvg-logo="https://images.vexels.com/media/users/3/208450/isolated/preview/910d7ee86479761d5ae2ead480028f35-icono-de-trazo-de-decodificador-de-control-remoto.png" group-title="Deco",Liga1
+http://test.golstar.cfd:8080/live/4581668076728472/8681668076728472/5758.ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga2" tvg-logo="https://images.vexels.com/media/users/3/208450/isolated/preview/910d7ee86479761d5ae2ead480028f35-icono-de-trazo-de-decodificador-de-control-remoto.png" group-title="Deco",Liga2
+http://test.golstar.cfd:8080/live/4581668076728472/8681668076728472/5651.ts
