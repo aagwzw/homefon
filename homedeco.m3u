@@ -1,21 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CanalDeco" tvg-logo="https://images.vexels.com/media/users/3/208450/isolated/preview/910d7ee86479761d5ae2ead480028f35-icono-de-trazo-de-decodificador-de-control-remoto.png" group-title="Deco",CanalDeco
-http://192.168.1.105:8080/live
+http://192.168.1.100:8080/live
 
-#EXTINF:-1 tvg-id="" tvg-name="Gol Mundial Op.1" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="Deco",Gol Mundial
-http://iptv365.xyz:900/6639887160/3759664573/400485451
+#EXTINF:-1 tvg-id="" tvg-name="Gol Mundial HD" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="Deco",Gol Mundial HD
+http://megaamanda.xyz:900/0762111267/8266920845/400485451
 
-#EXTINF:-1 tvg-id="" tvg-name="Gol Mundial Op.2" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="Deco",Gol Mundial Op.2
-http://iptv365.xyz:900/6639887160/3759664573/400485452
+#EXTINF:-1 tvg-id="" tvg-name="Gol Mundial HD 2" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="Deco",Gol Mundial HD 2
+http://megaamanda.xyz:900/0762111267/8266920845/400485113
 
-#EXTINF:-1 tvg-id="" tvg-name="Gol Mundial Op.3" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="Deco",Gol Mundial Op.3
-http://iptv365.xyz:900/6639887160/3759664573/400485450
+#EXTINF:-1 tvg-id="" tvg-name="Gol Mundial HD 3" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="Deco",Gol Mundial HD 3
+http://megaamanda.xyz:900/0762111267/8266920845/400488972
 
-#EXTINF:-1 tvg-id="" tvg-name="Dazn F1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a366.png" group-title="Deco",Dazn F1 
-http://iptv365.xyz:900/6639887160/3759664573/165973
+#EXTINF:-1 tvg-id="" tvg-name="Gol Mundial FHD" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="Deco",Gol Mundial FHD
+http://megaamanda.xyz:900/0762111267/8266920845/400485452
 
-#EXTINF:-1 tvg-id="" tvg-name="Dazn F1 Op.2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a366.png" group-title="Deco",Dazn F1 Op.2
-http://iptv365.xyz:900/6639887160/3759664573/165888
+#EXTINF:-1 tvg-id="" tvg-name="Gol Mundial FHD 2" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="Deco",Gol Mundial FHD 2
+http://megaamanda.xyz:900/0762111267/8266920845/400488970
 
-#EXTINF:-1 tvg-id="" tvg-name="Dazn F1 Op.3" tvg-logo="https://img.sport-tv-guide.live/images/stations/a366.png" group-title="Deco",Dazn F1 Op.3
-http://iptv365.xyz:900/6639887160/3759664573/400218225
+#EXTINF:-1 tvg-id="" tvg-name="Gol Mundial FHD 3" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="Deco",Gol Mundial FHD 3
+http://megaamanda.xyz:900/0762111267/8266920845/400488970
+
