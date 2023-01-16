@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1, tvg-id="Gol Mundial" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-gol-mundial-2832.png" group-title="Television",Gol Mundial
-acestream://7031601915e3d33893cb324c89055b91b9ec5574
+#EXTINF:-1, tvg-id="1080" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-gol-mundial-2832.png" group-title="Television",1080
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
-#EXTINF:-1, tvg-id="#Vamos" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-vamos-1601.png" group-title="Television",#Vamos
-acestream://87a043de5d4cd60c731bc00d09f13bad8d882164
+#EXTINF:-1, tvg-id="720" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-vamos-1601.png" group-title="Television",720
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
 #EXTINF:-1, tvg-id="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="Television",National Geographic
 acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
