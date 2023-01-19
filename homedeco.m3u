@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CanalDeco" tvg-logo="https://images.vexels.com/media/users/3/208450/isolated/preview/910d7ee86479761d5ae2ead480028f35-icono-de-trazo-de-decodificador-de-control-remoto.png" group-title="Deco",CanalDeco
-http://192.168.1.100:8080/live
+http://192.168.1.36:8080/live
+
+#EXTINF:-1, tvg-id="DAZN 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-gol-mundial-2832.png" group-title="Television",DAZN 1
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+
+#EXTINF:-1, tvg-id="M LIGA CAMPEONES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-vamos-1601.png" group-title="Television",M LIGA CAMPEONES
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+
+
 
 
 
