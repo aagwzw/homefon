@@ -2,12 +2,14 @@
 #EXTINF:-1 tvg-id="" tvg-name="CanalDeco" tvg-logo="https://images.vexels.com/media/users/3/208450/isolated/preview/910d7ee86479761d5ae2ead480028f35-icono-de-trazo-de-decodificador-de-control-remoto.png" group-title="Deco",CanalDeco
 http://192.168.1.36:8080/live
 
-#EXTINF:-1, tvg-id="DAZN 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-gol-mundial-2832.png" group-title="Television",DAZN 1
-acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
+#EXTINF:-1, tvg-id="M + La Liga MultiAudio" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="Television",M + La Liga MultiAudio
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
-#EXTINF:-1, tvg-id="M LIGA CAMPEONES" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-vamos-1601.png" group-title="Television",M LIGA CAMPEONES
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1, tvg-id="M + La Liga 1080" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="Television",M + La Liga 1080
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 
+#EXTINF:-1, tvg-id="M + La Liga 720" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="Television",M + La Liga 720
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
 
 
