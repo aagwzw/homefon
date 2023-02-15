@@ -1,229 +1,229 @@
-#EXTM3U
-#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - ESPAÑA 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÑA HEVC",##### SP - ESPAÑA 4K #####
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - ESPAÃ‘A 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÃ‘A HEVC",##### SP - ESPAÃ‘A 4K #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1918
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TVE INTERNACIONAL 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/TVEINTERNACIONAL.png" group-title="|ES| ESPAÑA HEVC",SP -  TVE INTERNACIONAL 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TVE INTERNACIONAL 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/TVEINTERNACIONAL.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  TVE INTERNACIONAL 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1916
-#EXTINF:-1 tvg-ID="la1.es" tvg-name="SP -  LA 1 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/LA1.png" group-title="|ES| ESPAÑA HEVC",SP -  LA 1 4K
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="SP -  LA 1 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/LA1.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  LA 1 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1915
-#EXTINF:-1 tvg-ID="la2.es" tvg-name="SP -  LA 2 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/LA2.png" group-title="|ES| ESPAÑA HEVC",SP -  LA 2 4K
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="SP -  LA 2 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/LA2.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  LA 2 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1914
-#EXTINF:-1 tvg-ID="antena3.es" tvg-name="SP -  ANTENA 3 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/ANTENA3.png" group-title="|ES| ESPAÑA HEVC",SP -  ANTENA 3 4K
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="SP -  ANTENA 3 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/ANTENA3.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  ANTENA 3 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1913
-#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="SP -  CUATRO 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/E4.png" group-title="|ES| ESPAÑA HEVC",SP -  CUATRO 4K
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="SP -  CUATRO 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/E4.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  CUATRO 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1912
-#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="SP -  TELECINCO 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/TELECINCO.png" group-title="|ES| ESPAÑA HEVC",SP -  TELECINCO 4K
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="SP -  TELECINCO 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/TELECINCO.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  TELECINCO 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1911
-#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="SP -  LA SEXTA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/LASEXTA.png" group-title="|ES| ESPAÑA HEVC",SP -  LA SEXTA 4K
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="SP -  LA SEXTA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/LASEXTA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  LA SEXTA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1910
-#EXTINF:-1 tvg-ID="canalsur.es" tvg-name="SP -  CANAL SUR A. 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/CANALSURA.png" group-title="|ES| ESPAÑA HEVC",SP -  CANAL SUR A. 4K
+#EXTINF:-1 tvg-ID="canalsur.es" tvg-name="SP -  CANAL SUR A. 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/CANALSURA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  CANAL SUR A. 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1909
-#EXTINF:-1 tvg-ID="nova.es" tvg-name="SP -  NOVA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/NOVA.png" group-title="|ES| ESPAÑA HEVC",SP -  NOVA 4K
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="SP -  NOVA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/NOVA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  NOVA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1908
-#EXTINF:-1 tvg-ID="24horas.es" tvg-name="SP -  24 HORAS 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/24HORAS.png" group-title="|ES| ESPAÑA HEVC",SP -  24 HORAS 4K
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="SP -  24 HORAS 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/24HORAS.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  24 HORAS 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1905
-#EXTINF:-1 tvg-ID="tvgalicia.es" tvg-name="SP -  TVGA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/TVGA.png" group-title="|ES| ESPAÑA HEVC",SP -  TVGA 4K
+#EXTINF:-1 tvg-ID="tvgalicia.es" tvg-name="SP -  TVGA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/TVGA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  TVGA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1904
-#EXTINF:-1 tvg-ID="factoriaficcion.es" tvg-name="SP -  FDF 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/FDF.png" group-title="|ES| ESPAÑA HEVC",SP -  FDF 4K
+#EXTINF:-1 tvg-ID="factoriaficcion.es" tvg-name="SP -  FDF 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/FDF.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  FDF 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1903
-#EXTINF:-1 tvg-ID="clantve.es" tvg-name="SP -  CLAN TVE 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/CLANTVE.png" group-title="|ES| ESPAÑA HEVC",SP -  CLAN TVE 4K
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="SP -  CLAN TVE 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/CLANTVE.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  CLAN TVE 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1902
-#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="SP -  HOLLYWOOD 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/HOLLYWOODHD.png" group-title="|ES| ESPAÑA HEVC",SP -  HOLLYWOOD 4K
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="SP -  HOLLYWOOD 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/HOLLYWOODHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  HOLLYWOOD 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1901
-#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="SP -  IBERALIA TV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/IBERLIA TV.png" group-title="|ES| ESPAÑA HEVC",SP -  IBERALIA TV 4K
+#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="SP -  IBERALIA TV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/IBERLIA TV.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  IBERALIA TV 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1900
-#EXTINF:-1 tvg-ID="mega.es" tvg-name="SP -  MEGA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MEGA.png" group-title="|ES| ESPAÑA HEVC",SP -  MEGA 4K
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="SP -  MEGA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MEGA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  MEGA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1899
-#EXTINF:-1 tvg-ID="vamos.es" tvg-name="SP -  #VAMOS 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/VAMOS.png" group-title="|ES| ESPAÑA HEVC",SP -  #VAMOS 4K
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="SP -  #VAMOS 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/VAMOS.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  #VAMOS 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1898
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  HORSE TV FHD" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  HORSE TV FHD
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP - Â HORSE TV FHD" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP - Â HORSE TV FHD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/412762
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  SOMOS 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  SOMOS 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  SOMOS 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP -  SOMOS 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/300096
-#EXTINF:-1 tvg-ID="xtrm.es" tvg-name="SP -  XTRM 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/XTRM.png" group-title="|ES| ESPAÑA HEVC",SP -  XTRM 4K
+#EXTINF:-1 tvg-ID="xtrm.es" tvg-name="SP -  XTRM 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/XTRM.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  XTRM 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/192239
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DARK 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  DARK 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DARK 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP -  DARK 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/412764
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TELEMADRID FHD" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  TELEMADRID FHD
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP - Â TELEMADRID FHD" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP - Â TELEMADRID FHD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/412515
-#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - NINOS 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÑA HEVC",##### SP - NINOS 4K #####
+#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - NINOS 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÃ‘A HEVC",##### SP - NINOS 4K #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1897
-#EXTINF:-1 tvg-ID="babytv.es" tvg-name="SP -  BABY TV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/BABYTV.png" group-title="|ES| ESPAÑA HEVC",SP -  BABY TV 4K
+#EXTINF:-1 tvg-ID="babytv.es" tvg-name="SP -  BABY TV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/BABYTV.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  BABY TV 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1896
-#EXTINF:-1 tvg-ID="boing.es" tvg-name="SP -  BOING 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/BOING.png" group-title="|ES| ESPAÑA HEVC",SP -  BOING 4K
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="SP -  BOING 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/BOING.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  BOING 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1895
-#EXTINF:-1 tvg-ID="canalpanda.es" tvg-name="SP -  CANAL PANDA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/CANALPANDA.png" group-title="|ES| ESPAÑA HEVC",SP -  CANAL PANDA 4K
+#EXTINF:-1 tvg-ID="canalpanda.es" tvg-name="SP -  CANAL PANDA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/CANALPANDA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  CANAL PANDA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1894
-#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="SP -  COMEDYCENTRAL 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/COMEDYCENTRALHD.png" group-title="|ES| ESPAÑA HEVC",SP -  COMEDYCENTRAL 4K
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="SP -  COMEDYCENTRAL 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/COMEDYCENTRALHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  COMEDYCENTRAL 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1893
-#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="SP -  DISNEY CH 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/DISNEYCH.png" group-title="|ES| ESPAÑA HEVC",SP -  DISNEY CH 4K
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="SP -  DISNEY CH 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/DISNEYCH.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  DISNEY CH 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1892
-#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="SP -  DISNEY JR 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DISNEYJR.png" group-title="|ES| ESPAÑA HEVC",SP -  DISNEY JR 4K
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="SP -  DISNEY JR 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DISNEYJR.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  DISNEY JR 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1891
-#EXTINF:-1 tvg-ID="disneyxd.es" tvg-name="SP -  DREAMWORKS 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/DREAMWORKS.png" group-title="|ES| ESPAÑA HEVC",SP -  DREAMWORKS 4K
+#EXTINF:-1 tvg-ID="disneyxd.es" tvg-name="SP -  DREAMWORKS 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/DREAMWORKS.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  DREAMWORKS 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1890
-#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="SP -  NICK JR 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/NICKJR.png" group-title="|ES| ESPAÑA HEVC",SP -  NICK JR 4K
+#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="SP -  NICK JR 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/NICKJR.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  NICK JR 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1889
-#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="SP -  NICKELODEON 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/NICKELODEON.png" group-title="|ES| ESPAÑA HEVC",SP -  NICKELODEON 4K
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="SP -  NICKELODEON 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/NICKELODEON.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  NICKELODEON 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1887
-#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - ENTRETENIMIENTO 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÑA HEVC",##### SP - ENTRETENIMIENTO 4K #####
+#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - ENTRETENIMIENTO 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÃ‘A HEVC",##### SP - ENTRETENIMIENTO 4K #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1886
-#EXTINF:-1 tvg-ID="fox.es" tvg-name="SP -  FOX 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/FOXHD.png" group-title="|ES| ESPAÑA HEVC",SP -  FOX 4K
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="SP -  FOX 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/FOXHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  FOX 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1885
-#EXTINF:-1 tvg-ID="#0.es" tvg-name="SP -  0 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/FOXNEWS.png" group-title="|ES| ESPAÑA HEVC",SP -  0 4K
+#EXTINF:-1 tvg-ID="#0.es" tvg-name="SP -  0 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/FOXNEWS.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  0 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1882
-#EXTINF:-1 tvg-ID="amc.es" tvg-name="SP -  AMC 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/AMCHD.png" group-title="|ES| ESPAÑA HEVC",SP -  AMC 4K
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="SP -  AMC 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/AMCHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  AMC 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1881
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  ARAGON TV INT 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/ARAGONTVINT.png" group-title="|ES| ESPAÑA HEVC",SP -  ARAGON TV INT 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  ARAGON TV INT 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/ARAGONTVINT.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  ARAGON TV INT 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1880
-#EXTINF:-1 tvg-ID="axn.es" tvg-name="SP -  AXN 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/AXN.png" group-title="|ES| ESPAÑA HEVC",SP -  AXN 4K
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="SP -  AXN 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/AXN.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  AXN 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1879
-#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="SP -  AXN WHITE 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/AXNWHITE.png" group-title="|ES| ESPAÑA HEVC",SP -  AXN WHITE 4K
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="SP -  AXN WHITE 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/AXNWHITE.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  AXN WHITE 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1877
-#EXTINF:-1 tvg-ID="syfy.es" tvg-name="SP -  SYFY 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/SYFY.png" group-title="|ES| ESPAÑA HEVC",SP -  SYFY 4K
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="SP -  SYFY 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/SYFY.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  SYFY 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1876
-#EXTINF:-1 tvg-ID="tcm.es" tvg-name="SP -  TCM 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÑA HEVC",SP -  TCM 4K
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="SP -  TCM 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  TCM 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1875
-#EXTINF:-1 tvg-ID="tnt.es" tvg-name="SP -  TNT 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/TNTHD.png" group-title="|ES| ESPAÑA HEVC",SP -  TNT 4K
+#EXTINF:-1 tvg-ID="tnt.es" tvg-name="SP -  TNT 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/TNTHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  TNT 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1874
-#EXTINF:-1 tvg-ID="bemad.es" tvg-name="SP -  BE MAD 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/BEMAD.png" group-title="|ES| ESPAÑA HEVC",SP -  BE MAD 4K
+#EXTINF:-1 tvg-ID="bemad.es" tvg-name="SP -  BE MAD 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/BEMAD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  BE MAD 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1873
-#EXTINF:-1 tvg-ID="blaze.es" tvg-name="SP -  BLAZE 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/BLAZE.png" group-title="|ES| ESPAÑA HEVC",SP -  BLAZE 4K
+#EXTINF:-1 tvg-ID="blaze.es" tvg-name="SP -  BLAZE 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/BLAZE.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  BLAZE 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1872
-#EXTINF:-1 tvg-ID="calle13.es" tvg-name="SP -  CALLE 13 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/CALLE13HD.png" group-title="|ES| ESPAÑA HEVC",SP -  CALLE 13 4K
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="SP -  CALLE 13 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/CALLE13HD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  CALLE 13 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1871
-#EXTINF:-1 tvg-ID="canalcocina.es" tvg-name="SP -  CANAL COCINA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/cocina HD.png" group-title="|ES| ESPAÑA HEVC",SP -  CANAL COCINA 4K
+#EXTINF:-1 tvg-ID="canalcocina.es" tvg-name="SP -  CANAL COCINA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/cocina HD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  CANAL COCINA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1870
-#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="SP -  CANAL DECASA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/CANALDECASA.png" group-title="|ES| ESPAÑA HEVC",SP -  CANAL DECASA 4K
+#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="SP -  CANAL DECASA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/CANALDECASA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  CANAL DECASA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1869
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CANAL ODISEA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/ODEISA HD.png" group-title="|ES| ESPAÑA HEVC",SP -  CANAL ODISEA 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CANAL ODISEA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/ODEISA HD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  CANAL ODISEA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1868
-#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="SP -  CAZAYPESCA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/CAZAYPESCA.png" group-title="|ES| ESPAÑA HEVC",SP -  CAZAYPESCA 4K
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="SP -  CAZAYPESCA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/CAZAYPESCA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  CAZAYPESCA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1867
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CLASSICA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/CLASSICA.png" group-title="|ES| ESPAÑA HEVC",SP -  CLASSICA 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CLASSICA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/CLASSICA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  CLASSICA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1866
-#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="SP -  COSMO 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/COSMOHD.png" group-title="|ES| ESPAÑA HEVC",SP -  COSMO 4K
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="SP -  COSMO 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/COSMOHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  COSMO 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1865
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CRIMEN INVES 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/CRIMEN AND INVES.png" group-title="|ES| ESPAÑA HEVC",SP -  CRIMEN INVES 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CRIMEN INVES 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/CRIMEN AND INVES.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  CRIMEN INVES 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1864
-#EXTINF:-1 tvg-ID="divinity.es" tvg-name="SP -  DIVINITY 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DIVINITY.png" group-title="|ES| ESPAÑA HEVC",SP -  DIVINITY 4K
+#EXTINF:-1 tvg-ID="divinity.es" tvg-name="SP -  DIVINITY 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DIVINITY.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  DIVINITY 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1863
-#EXTINF:-1 tvg-ID="energy.es" tvg-name="SP -  ENERGY 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/ENERGY.png" group-title="|ES| ESPAÑA HEVC",SP -  ENERGY 4K
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="SP -  ENERGY 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/ENERGY.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  ENERGY 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1862
-#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - DEPORTES 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÑA HEVC",##### SP - DEPORTES 4K #####
+#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - DEPORTES 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÃ‘A HEVC",##### SP - DEPORTES 4K #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1834
-#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="SP -  M.LCAMPEONES 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MLCAMPEONES.png" group-title="|ES| ESPAÑA HEVC",SP -  M.LCAMPEONES 4K
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="SP -  M.LCAMPEONES 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MLCAMPEONES.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.LCAMPEONES 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1860
-#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="SP -  M.LCAMPEONES BACKUP 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  M.LCAMPEONES BACKUP 4K
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="SP -  M.LCAMPEONES BACKUP 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.LCAMPEONES BACKUP 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/353741
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M.DEPORTES 3 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MDeportes3.png" group-title="|ES| ESPAÑA HEVC",SP -  M.DEPORTES 3 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M.DEPORTES 3 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MDeportes3.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.DEPORTES 3 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/226592
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M.DEPORTES 2 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MDeportes2.png" group-title="|ES| ESPAÑA HEVC",SP -  M.DEPORTES 2 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M.DEPORTES 2 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MDeportes2.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.DEPORTES 2 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/226591
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN LALIGA 4K" tvg-logo="" group-title="|ES| ESPAÑA HEVC",SP -  DAZN LALIGA 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN LALIGA 4K" tvg-logo="" group-title="|ES| ESPAÃ‘A HEVC",SP -  DAZN LALIGA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/419456
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN LALIGA 2 4K" tvg-logo="" group-title="|ES| ESPAÑA HEVC",SP -  DAZN LALIGA 2 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN LALIGA 2 4K" tvg-logo="" group-title="|ES| ESPAÃ‘A HEVC",SP -  DAZN LALIGA 2 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/426350
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN 1 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DAZN1.png" group-title="|ES| ESPAÑA HEVC",SP -  DAZN 1 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN 1 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DAZN1.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  DAZN 1 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/41321
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN 2 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DAZN2.png" group-title="|ES| ESPAÑA HEVC",SP -  DAZN 2 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN 2 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DAZN2.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  DAZN 2 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/41322
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN 3 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DAZN3.png" group-title="|ES| ESPAÑA HEVC",SP -  DAZN 3 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN 3 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DAZN3.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  DAZN 3 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/157481
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN 4 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DAZN4.png" group-title="|ES| ESPAÑA HEVC",SP -  DAZN 4 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN 4 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DAZN4.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  DAZN 4 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/157480
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN F1 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DAZNF1.png" group-title="|ES| ESPAÑA HEVC",SP -  DAZN F1 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN F1 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DAZNF1.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  DAZN F1 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/157479
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN F1 ESPAÑA 4K 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  DAZN F1 ESPAÑA 4K 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN F1 ESPAÃ‘AÂ 4K 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP -  DAZN F1 ESPAÃ‘AÂ 4K 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/414789
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN F1 4K 8K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  DAZN F1 4K 8K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN F1 4K 8K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP -  DAZN F1 4K 8K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/435292
-#EXTINF:-1 tvg-ID="mlaliga.es" tvg-name="SP -  M.LALIGA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MLALIGA.png" group-title="|ES| ESPAÑA HEVC",SP -  M.LALIGA 4K
+#EXTINF:-1 tvg-ID="mlaliga.es" tvg-name="SP -  M.LALIGA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MLALIGA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.LALIGA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1857
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M. LALIGA 1 HD  4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MLALIGA.png" group-title="|ES| ESPAÑA HEVC",SP -  M. LALIGA 1 HD  4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M. LALIGA 1 HD  4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MLALIGA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M. LALIGA 1 HD  4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/31269
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M. LALIGA 2 HD  4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MLALIGA.png" group-title="|ES| ESPAÑA HEVC",SP -  M. LALIGA 2 HD  4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M. LALIGA 2 HD  4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MLALIGA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M. LALIGA 2 HD  4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/31271
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M. LALIGA 3 HD  4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MLALIGA.png" group-title="|ES| ESPAÑA HEVC",SP -  M. LALIGA 3 HD  4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M. LALIGA 3 HD  4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MLALIGA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M. LALIGA 3 HD  4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/31273
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  LALIGA SMARTBANK TV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  LALIGA SMARTBANK TV 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  LALIGA SMARTBANK TV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP -  LALIGA SMARTBANK TV 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/428603
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  LALIGA SMARTBANK TV 1 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  LALIGA SMARTBANK TV 1 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  LALIGA SMARTBANK TV 1 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP -  LALIGA SMARTBANK TV 1 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/428602
-#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="SP -  EUROSPORT 1 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/EUROSPORT1.png" group-title="|ES| ESPAÑA HEVC",SP -  EUROSPORT 1 4K
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="SP -  EUROSPORT 1 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/EUROSPORT1.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  EUROSPORT 1 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1854
-#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="SP -  EUROSPORT 2 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/EUROSPORT2.png" group-title="|ES| ESPAÑA HEVC",SP -  EUROSPORT 2 4K
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="SP -  EUROSPORT 2 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/EUROSPORT2.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  EUROSPORT 2 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1853
-#EXTINF:-1 tvg-ID="gol.es" tvg-name="SP -  GOL 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/GOL.png" group-title="|ES| ESPAÑA HEVC",SP -  GOL 4K
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="SP -  GOL 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/GOL.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  GOL 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1852
-#EXTINF:-1 tvg-ID="barcatv.es" tvg-name="SP -  BAR TV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/BARTV.png" group-title="|ES| ESPAÑA HEVC",SP -  BAR TV 4K
+#EXTINF:-1 tvg-ID="barcatv.es" tvg-name="SP -  BAR TV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/BARTV.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  BAR TV 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1851
-#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="SP -  R.MADRID TV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/RMADRIDTV.png" group-title="|ES| ESPAÑA HEVC",SP -  R.MADRID TV 4K
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="SP -  R.MADRID TV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/RMADRIDTV.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  R.MADRID TV 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1850
-#EXTINF:-1 tvg-ID="toros.es" tvg-name="SP -  TOROS 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/TOROSHD.png" group-title="|ES| ESPAÑA HEVC",SP -  TOROS 4K
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="SP -  TOROS 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/TOROSHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  TOROS 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1849
-#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="SP -  M.GOLF 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MGOLFHD.png" group-title="|ES| ESPAÑA HEVC",SP -  M.GOLF 4K
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="SP -  M.GOLF 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MGOLFHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.GOLF 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1846
-#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="SP -  M. DEPORTES 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MDeportes1.png" group-title="|ES| ESPAÑA HEVC",SP -  M. DEPORTES 4K
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="SP -  M. DEPORTES 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MDeportes1.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M. DEPORTES 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1833
-#EXTINF:-1 tvg-ID="mdeportes1.es" tvg-name="SP -  M.DEPORTES 1 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MDeportes1.png" group-title="|ES| ESPAÑA HEVC",SP -  M.DEPORTES 1 4K
+#EXTINF:-1 tvg-ID="mdeportes1.es" tvg-name="SP -  M.DEPORTES 1 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MDeportes1.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.DEPORTES 1 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1832
-#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="SP -  TELEDEPORTE 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/TELEDEPORTE.png" group-title="|ES| ESPAÑA HEVC",SP -  TELEDEPORTE 4K
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="SP -  TELEDEPORTE 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/TELEDEPORTE.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  TELEDEPORTE 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1831
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M. FEST 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  M. FEST 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M. FEST 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP -  M. FEST 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/412814
-#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - MOVIESTAR 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÑA HEVC",##### SP - MOVIESTAR 4K #####
+#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - MOVIESTAR 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÃ‘A HEVC",##### SP - MOVIESTAR 4K #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1844
-#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="SP -  M.ACCION 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MACCIONHD.png" group-title="|ES| ESPAÑA HEVC",SP -  M.ACCION 4K
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="SP -  M.ACCION 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MACCIONHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.ACCION 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1843
-#EXTINF:-1 tvg-ID="movistardcine.es" tvg-name="SP -  M.CINE ESPANOL 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MCINEESPANOL.png" group-title="|ES| ESPAÑA HEVC",SP -  M.CINE ESPANOL 4K
+#EXTINF:-1 tvg-ID="movistardcine.es" tvg-name="SP -  M.CINE ESPANOL 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MCINEESPANOL.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.CINE ESPANOL 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1842
-#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="SP -  M.COMEDIA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MCOMEDIAHD.png" group-title="|ES| ESPAÑA HEVC",SP -  M.COMEDIA 4K
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="SP -  M.COMEDIA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MCOMEDIAHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.COMEDIA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1841
-#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="SP -  M.DRAMA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MDRAMAHD.png" group-title="|ES| ESPAÑA HEVC",SP -  M.DRAMA 4K
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="SP -  M.DRAMA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MDRAMAHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.DRAMA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1840
-#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="SP -  M.ESTRENOS 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MESTRENOSHD.png" group-title="|ES| ESPAÑA HEVC",SP -  M.ESTRENOS 4K
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="SP -  M.ESTRENOS 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MESTRENOSHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.ESTRENOS 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1839
-#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="SP -  M.SERIES 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MSERIESHD.png" group-title="|ES| ESPAÑA HEVC",SP -  M.SERIES 4K
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="SP -  M.SERIES 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MSERIESHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.SERIES 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1836
-#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="SP -  M.SERIESMANIA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MSERIESMANIAHD.png" group-title="|ES| ESPAÑA HEVC",SP -  M.SERIESMANIA 4K
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="SP -  M.SERIESMANIA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MSERIESMANIAHD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  M.SERIESMANIA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1835
-#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - MUSICA 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÑA HEVC",##### SP - MUSICA 4K #####
+#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - MUSICA 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÃ‘A HEVC",##### SP - MUSICA 4K #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1827
-#EXTINF:-1 tvg-ID="mezzo.es" tvg-name="SP -  MEZZO 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MEZZO.png" group-title="|ES| ESPAÑA HEVC",SP -  MEZZO 4K
+#EXTINF:-1 tvg-ID="mezzo.es" tvg-name="SP -  MEZZO 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MEZZO.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  MEZZO 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1830
-#EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="SP -  MEZZO LIVE 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/Mezzolive.png" group-title="|ES| ESPAÑA HEVC",SP -  MEZZO LIVE 4K
+#EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="SP -  MEZZO LIVE 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/Mezzolive.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  MEZZO LIVE 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1829
-#EXTINF:-1 tvg-ID="mtv.es" tvg-name="SP -  MTV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MTV.png" group-title="|ES| ESPAÑA HEVC",SP -  MTV 4K
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="SP -  MTV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MTV.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  MTV 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1826
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  MTV ESPA¹A 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MTVESPAA.png" group-title="|ES| ESPAÑA HEVC",SP -  MTV ESPA¹A 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  MTV ESPAÂ¹A 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MTVESPAA.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  MTV ESPAÂ¹A 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1824
-#EXTINF:-1 tvg-ID="sundance.es" tvg-name="SP -  SUNDANCE TV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/SUNDANCETV.png" group-title="|ES| ESPAÑA HEVC",SP -  SUNDANCE TV 4K
+#EXTINF:-1 tvg-ID="sundance.es" tvg-name="SP -  SUNDANCE TV 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/SUNDANCETV.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  SUNDANCE TV 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1821
-#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - CULTURA 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÑA HEVC",##### SP - CULTURA 4K #####
+#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - CULTURA 4K #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| ESPAÃ‘A HEVC",##### SP - CULTURA 4K #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1820
-#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="SP -  DISCOVERY 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/DISCOVERY.png" group-title="|ES| ESPAÑA HEVC",SP -  DISCOVERY 4K
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="SP -  DISCOVERY 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/DISCOVERY.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  DISCOVERY 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1819
-#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="SP -  NAT GEO 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/NATGEO.png" group-title="|ES| ESPAÑA HEVC",SP -  NAT GEO 4K
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="SP -  NAT GEO 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/NATGEO.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  NAT GEO 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1818
-#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="SP -  NAT GEO WILD 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/NATGEOWILD.png" group-title="|ES| ESPAÑA HEVC",SP -  NAT GEO WILD 4K
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="SP -  NAT GEO WILD 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/NATGEOWILD.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  NAT GEO WILD 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1817
-#EXTINF:-1 tvg-ID="neox.es" tvg-name="SP -  NEOX 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/NEOX.png" group-title="|ES| ESPAÑA HEVC",SP -  NEOX 4K
+#EXTINF:-1 tvg-ID="neox.es" tvg-name="SP -  NEOX 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/NEOX.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  NEOX 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1815
-#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="SP -  PARAMOUNT 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/PARAMOUNT.png" group-title="|ES| ESPAÑA HEVC",SP -  PARAMOUNT 4K
+#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="SP -  PARAMOUNT 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/PARAMOUNT.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  PARAMOUNT 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1814
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DMAX 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DMAX.png" group-title="|ES| ESPAÑA HEVC",SP -  DMAX 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DMAX 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DMAX.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  DMAX 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/229597
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  NAUTICAL CHANNEL 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  NAUTICAL CHANNEL 4K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  NAUTICAL CHANNEL 4K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP -  NAUTICAL CHANNEL 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/412763
-#EXTINF:-1 tvg-ID="historia.es" tvg-name="SP -  HISTORIA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/HISTORY.png" group-title="|ES| ESPAÑA HEVC",SP -  HISTORIA 4K
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="SP -  HISTORIA 4K" tvg-logo="http://logo.ottporsche.info:8080/logos//SPAIN/HISTORY.png" group-title="|ES| ESPAÃ‘A HEVC",SP -  HISTORIA 4K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1811
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  COSINA 8K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  COSINA 8K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  COSINA 8K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP -  COSINA 8K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/411242
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CANAL ODISEA 4K 8K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  CANAL ODISEA 4K 8K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CANAL ODISEA 4K 8K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP -  CANAL ODISEA 4K 8K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/435291
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CANAL DECASA 4K 8K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÑA HEVC",SP -  CANAL DECASA 4K 8K
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CANAL DECASA 4K 8K" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ESPAÃ‘A HEVC",SP -  CANAL DECASA 4K 8K
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/435290
-#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - ESPAÑA HD #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| GENERAL",##### SP - ESPAÑA HD #####
+#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - ESPAÃ‘A HD #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| GENERAL",##### SP - ESPAÃ‘A HD #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1700
 #EXTINF:-1 tvg-ID="tveinteu.es" tvg-name="SP -  TVE INTERNACIONAL HD" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/TVEINTERNACIONAL.png" group-title="|ES| GENERAL",SP -  TVE INTERNACIONAL HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1698
@@ -299,7 +299,7 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1617
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1616
 #EXTINF:-1 tvg-ID="mtv.es" tvg-name="SP -  MTV" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MTV.png" group-title="|ES| GENERAL",SP -  MTV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1612
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  MTV ESPA¹A" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MTVESPAA.png" group-title="|ES| GENERAL",SP -  MTV ESPA¹A
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  MTV ESPAÂ¹A" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/MTVESPAA.png" group-title="|ES| GENERAL",SP -  MTV ESPAÂ¹A
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1611
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  FOX NEWS" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/FOXNEWS.png" group-title="|ES| GENERAL",SP -  FOX NEWS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1592
@@ -431,7 +431,7 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/157478
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/157477
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN F1 HD" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DAZNF1.png" group-title="|ES| DEPORTES",SP -  DAZN F1 HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/157476
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN F1 ESPAÑA HD" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| DEPORTES",SP -  DAZN F1 ESPAÑA HD
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN F1 ESPAÃ‘A HD" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| DEPORTES",SP -  DAZN F1 ESPAÃ‘A HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/414786
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DAZN F1 SD" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| DEPORTES",SP -  DAZN F1 SD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/414785
@@ -475,7 +475,7 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1662
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1661
 #EXTINF:-1 tvg-ID="calle13.es" tvg-name="SP -  CALLE 13 HD" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/CALLE13HD.png" group-title="|ES| ENTRETENEMIENTO",SP -  CALLE 13 HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1660
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M+ CLáSICOS" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ENTRETENEMIENTO",SP -  M+ CLáSICOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  M+ CLÃ¡SICOS" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| ENTRETENEMIENTO",SP -  M+ CLÃ¡SICOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/412505
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CLASSICA" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/CLASSICA.png" group-title="|ES| ENTRETENEMIENTO",SP -  CLASSICA
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1649
@@ -497,25 +497,25 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1652
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1651
 #EXTINF:-1 tvg-ID="tnt.es" tvg-name="SP -  TNT HD" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/TNTHD.png" group-title="|ES| ENTRETENEMIENTO",SP -  TNT HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1650
-#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - NINOS HD #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| NIÑOS",##### SP - NINOS HD #####
+#EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - NINOS HD #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| NIÃ‘OS",##### SP - NINOS HD #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1676
-#EXTINF:-1 tvg-ID="babytv.es" tvg-name="SP -  BABY TV" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/BABYTV.png" group-title="|ES| NIÑOS",SP -  BABY TV
+#EXTINF:-1 tvg-ID="babytv.es" tvg-name="SP -  BABY TV" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/BABYTV.png" group-title="|ES| NIÃ‘OS",SP -  BABY TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1675
-#EXTINF:-1 tvg-ID="boing.es" tvg-name="SP -  BOING" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/BOING.png" group-title="|ES| NIÑOS",SP -  BOING
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="SP -  BOING" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/BOING.png" group-title="|ES| NIÃ‘OS",SP -  BOING
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1674
-#EXTINF:-1 tvg-ID="clantve.es" tvg-name="SP -  CLAN TVE" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/CLANTVE.png" group-title="|ES| NIÑOS",SP -  CLAN TVE
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="SP -  CLAN TVE" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/CLANTVE.png" group-title="|ES| NIÃ‘OS",SP -  CLAN TVE
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1673
-#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="SP -  DISNEY CH HD" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DISNEYCH.png" group-title="|ES| NIÑOS",SP -  DISNEY CH HD
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="SP -  DISNEY CH HD" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DISNEYCH.png" group-title="|ES| NIÃ‘OS",SP -  DISNEY CH HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1672
-#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="SP -  DISNEY JR" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DISNEYJR.png" group-title="|ES| NIÑOS",SP -  DISNEY JR
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="SP -  DISNEY JR" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DISNEYJR.png" group-title="|ES| NIÃ‘OS",SP -  DISNEY JR
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1671
-#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="SP -  DREAMWORKS" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DREAMWORKS.png" group-title="|ES| NIÑOS",SP -  DREAMWORKS
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="SP -  DREAMWORKS" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/DREAMWORKS.png" group-title="|ES| NIÃ‘OS",SP -  DREAMWORKS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1670
-#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="SP -  NICK JR" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/NICKJR.png" group-title="|ES| NIÑOS",SP -  NICK JR
+#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="SP -  NICK JR" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/NICKJR.png" group-title="|ES| NIÃ‘OS",SP -  NICK JR
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1669
-#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="SP -  NICKELODEON  HD" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/NICKELODEON.png" group-title="|ES| NIÑOS",SP -  NICKELODEON  HD
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="SP -  NICKELODEON  HD" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/NICKELODEON.png" group-title="|ES| NIÃ‘OS",SP -  NICKELODEON  HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1668
-#EXTINF:-1 tvg-ID="canalpanda.es" tvg-name="SP -  CANAL PANDA" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/CANALPANDA.png" group-title="|ES| NIÑOS",SP -  CANAL PANDA
+#EXTINF:-1 tvg-ID="canalpanda.es" tvg-name="SP -  CANAL PANDA" tvg-logo="http://logo.ottporsche.info:8080/logos/SPAIN/CANALPANDA.png" group-title="|ES| NIÃ‘OS",SP -  CANAL PANDA
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1667
 #EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - DOCUMENTALES #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/SPAIN.png" group-title="|ES| DOCUMENTALES",##### SP - DOCUMENTALES #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1608
@@ -545,15 +545,15 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1597
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/1596
 #EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - REGIONALES #####" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",##### SP - REGIONALES #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420833
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  101 TV MáLAGA FHD" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  101 TV MáLAGA FHD
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  101 TV MÃ¡LAGA FHD" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  101 TV MÃ¡LAGA FHD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420832
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  25 TV CATALUñA" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  25 TV CATALUñA
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  25 TV CATALUÃ±A" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  25 TV CATALUÃ±A
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420831
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  8 LA MARINA TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  8 LA MARINA TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420824
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  8 TV CáDIZ" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  8 TV CáDIZ
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  8 TV CÃ¡DIZ" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  8 TV CÃ¡DIZ
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420823
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  ALACANTí TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  ALACANTí TV
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  ALACANTÃ­ TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  ALACANTÃ­ TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420822
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  ALCARRIA TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  ALCARRIA TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420821
@@ -567,7 +567,7 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420818
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420817
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  ARAGON TV SD HEVC" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  ARAGON TV SD HEVC
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420816
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  BETEVé" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  BETEVé
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  BETEVÃ©" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  BETEVÃ©
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420814
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  C33 MADRID" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  C33 MADRID
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420812
@@ -581,11 +581,11 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420808
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420806
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CANAL EXTREMADURA" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  CANAL EXTREMADURA
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420803
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CANAL MáLAGA" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  CANAL MáLAGA
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CANAL MÃ¡LAGA" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  CANAL MÃ¡LAGA
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420802
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CANAL SAN ROQUE" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  CANAL SAN ROQUE
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420800
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CANAL SIERRA DE CáDIZ" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  CANAL SIERRA DE CáDIZ
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CANAL SIERRA DE CÃ¡DIZ" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  CANAL SIERRA DE CÃ¡DIZ
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420799
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CMM" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  CMM
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420796
@@ -593,7 +593,7 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420796
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420794
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  COSTA NOROESTE TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  COSTA NOROESTE TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420793
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CóRDOBA TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  CóRDOBA TV
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  CÃ³RDOBA TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  CÃ³RDOBA TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420792
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  DIEZ TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  DIEZ TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420791
@@ -605,7 +605,7 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420787
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420783
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  ETB 2" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  ETB 2
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420782
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  INTERALMERíA TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  INTERALMERíA TV
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  INTERALMERÃ­A TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  INTERALMERÃ­A TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420775
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  INTERCOMARCAL TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  INTERCOMARCAL TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420774
@@ -629,13 +629,13 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420758
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420756
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  MELILLA TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  MELILLA TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420755
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  MíRAME TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  MíRAME TV
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  MÃ­RAME TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  MÃ­RAME TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420753
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  NEGOCIOS TV HD" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  NEGOCIOS TV HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420751
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  NOROESTE TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  NOROESTE TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420749
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  NORTEVISIóN" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  NORTEVISIóN
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  NORTEVISIÃ³N" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  NORTEVISIÃ³N
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420748
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  OIZMENDI TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  OIZMENDI TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420747
@@ -643,11 +643,11 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420747
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420745
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  ONDA CADIZ" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  ONDA CADIZ
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420744
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  PARLAMENTO DE ANDALUCíA (NOT 24/7)" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  PARLAMENTO DE ANDALUCíA (NOT 24/7)
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  PARLAMENTO DE ANDALUCÃ­A (NOT 24/7)" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  PARLAMENTO DE ANDALUCÃ­A (NOT 24/7)
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420742
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  POPULAR TV CANTABRIA" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  POPULAR TV CANTABRIA
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420741
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  PTV CóRDOBA" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  PTV CóRDOBA
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  PTV CÃ³RDOBA" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  PTV CÃ³RDOBA
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420740
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  PTV GRANADA" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  PTV GRANADA
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420739
@@ -671,15 +671,15 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420727
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420726
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TELESUR MADRID" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  TELESUR MADRID
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420725
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TELEVISIóN DE ALICANTE" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  TELEVISIóN DE ALICANTE
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TELEVISIÃ³N DE ALICANTE" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  TELEVISIÃ³N DE ALICANTE
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420724
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TEN" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  TEN
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420723
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TEVECAT" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  TEVECAT
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420722
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TV3 CATALUñA" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  TV3 CATALUñA
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TV3 CATALUÃ±A" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  TV3 CATALUÃ±A
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420711
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TV3 CATALUñA RàDIO" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  TV3 CATALUñA RàDIO
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TV3 CATALUÃ±A RÃ DIO" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  TV3 CATALUÃ±A RÃ DIO
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420710
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  TVG CULTURA" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  TVG CULTURA
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420709
@@ -695,9 +695,9 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420705
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420703
 #EXTINF:-1 tvg-ID="ext" tvg-name="SP -  VENTDELNORD TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  VENTDELNORD TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420702
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  VISIóN 6 TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  VISIóN 6 TV
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  VISIÃ³N 6 TV" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  VISIÃ³N 6 TV
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420701
-#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  À PUNT" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  À PUNT
+#EXTINF:-1 tvg-ID="ext" tvg-name="SP -  Ã€ PUNT" tvg-logo="http://logo.ottporsche.info:8080/logos/BACKGROUND/LIVEEVENTPROMO.mp4" group-title="|ES| LOCALS",SP -  Ã€ PUNT
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/420700
 #EXTINF:-1 tvg-ID="ext" tvg-name="##### SP - RAKUTEN #####" tvg-logo="http://logo.ottporsche.info:8080/logos/FRENCH/FILMSSERIES/RAKUTEN.png" group-title="|ES| RAKUTEN",##### SP - RAKUTEN #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/415388
@@ -1075,109 +1075,109 @@ http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287258
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287257
 #EXTINF:-1 tvg-ID="ext" tvg-name="PT -  SPORT TV NBA NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/NBATV.png" group-title="|PT| DESPORTO",PT -  SPORT TV NBA NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287256
-#EXTINF:-1 tvg-ID="ext" tvg-name="##### PT - FILMES HD #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/PORTUGAL.png" group-title="|PT| FILMES E SÉRIES",##### PT - FILMES HD #####
+#EXTINF:-1 tvg-ID="ext" tvg-name="##### PT - FILMES HD #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/PORTUGAL.png" group-title="|PT| FILMES E SÃ‰RIES",##### PT - FILMES HD #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8094
-#EXTINF:-1 tvg-ID="nostudios.pt" tvg-name="PT -  NOS STUDIOS HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/NOSSTUDIO.png" group-title="|PT| FILMES E SÉRIES",PT -  NOS STUDIOS HD
+#EXTINF:-1 tvg-ID="nostudios.pt" tvg-name="PT -  NOS STUDIOS HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/NOSSTUDIO.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  NOS STUDIOS HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8075
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  NOS STUDIO HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/NOSSTUDIO.png" group-title="|PT| FILMES E SÉRIES",PT -  NOS STUDIO HD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  NOS STUDIO HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/NOSSTUDIO.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  NOS STUDIO HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8076
-#EXTINF:-1 tvg-ID="syfy.pt" tvg-name="PT -  SYFY" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/SYFY.png" group-title="|PT| FILMES E SÉRIES",PT -  SYFY
+#EXTINF:-1 tvg-ID="syfy.pt" tvg-name="PT -  SYFY" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/SYFY.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  SYFY
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8077
-#EXTINF:-1 tvg-ID="foxlife.pt" tvg-name="PT -  FOX LIFE HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXLIFE.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX LIFE HD
+#EXTINF:-1 tvg-ID="foxlife.pt" tvg-name="PT -  FOX LIFE HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXLIFE.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX LIFE HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8078
-#EXTINF:-1 tvg-ID="foxcrime.pt" tvg-name="PT -  FOX CRIME HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCRIME.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX CRIME HD
+#EXTINF:-1 tvg-ID="foxcrime.pt" tvg-name="PT -  FOX CRIME HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCRIME.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX CRIME HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8079
-#EXTINF:-1 tvg-ID="foxcomedy.pt" tvg-name="PT -  FOX COMEDY" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCOMEDY.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX COMEDY
+#EXTINF:-1 tvg-ID="foxcomedy.pt" tvg-name="PT -  FOX COMEDY" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCOMEDY.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX COMEDY
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8080
-#EXTINF:-1 tvg-ID="foxmovies.pt" tvg-name="PT -  FOX MOVIES" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXMOVIES.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX MOVIES
+#EXTINF:-1 tvg-ID="foxmovies.pt" tvg-name="PT -  FOX MOVIES" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXMOVIES.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX MOVIES
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8081
-#EXTINF:-1 tvg-ID="fox.pt" tvg-name="PT -  FOX HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXHD.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX HD
+#EXTINF:-1 tvg-ID="fox.pt" tvg-name="PT -  FOX HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXHD.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8082
-#EXTINF:-1 tvg-ID="tvcineaction.pt" tvg-name="PT -  TVCINE ACTION" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEACTION.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE ACTION
+#EXTINF:-1 tvg-ID="tvcineaction.pt" tvg-name="PT -  TVCINE ACTION" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEACTION.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE ACTION
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8083
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE ACTION HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEACTION.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE ACTION HD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE ACTION HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEACTION.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE ACTION HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8085
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE EMOTION HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEEMOTION.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE EMOTION HD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE EMOTION HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEEMOTION.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE EMOTION HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8086
-#EXTINF:-1 tvg-ID="tvcineedition.pt" tvg-name="PT -  TVCINE EDITION HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEEDITION.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE EDITION HD
+#EXTINF:-1 tvg-ID="tvcineedition.pt" tvg-name="PT -  TVCINE EDITION HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEEDITION.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE EDITION HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8087
-#EXTINF:-1 tvg-ID="tvcinetop.pt" tvg-name="PT -  TVCINE TOP HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINETOP.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE TOP HD
+#EXTINF:-1 tvg-ID="tvcinetop.pt" tvg-name="PT -  TVCINE TOP HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINETOP.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE TOP HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8088
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  AXN MOVIES HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AXNMOVIES.png" group-title="|PT| FILMES E SÉRIES",PT -  AXN MOVIES HD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  AXN MOVIES HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AXNMOVIES.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  AXN MOVIES HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8089
-#EXTINF:-1 tvg-ID="axnwhite.pt" tvg-name="PT -  AXN WHITE HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AXNWHITE.png" group-title="|PT| FILMES E SÉRIES",PT -  AXN WHITE HD
+#EXTINF:-1 tvg-ID="axnwhite.pt" tvg-name="PT -  AXN WHITE HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AXNWHITE.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  AXN WHITE HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8090
-#EXTINF:-1 tvg-ID="axn.pt" tvg-name="PT -  AXN HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AXN.png" group-title="|PT| FILMES E SÉRIES",PT -  AXN HD
+#EXTINF:-1 tvg-ID="axn.pt" tvg-name="PT -  AXN HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AXN.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  AXN HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8091
-#EXTINF:-1 tvg-ID="amchd.pt" tvg-name="PT -  AMC HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AMC.png" group-title="|PT| FILMES E SÉRIES",PT -  AMC HD
+#EXTINF:-1 tvg-ID="amchd.pt" tvg-name="PT -  AMC HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AMC.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  AMC HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8093
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TV SERIES" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVSERIES.png" group-title="|PT| FILMES E SÉRIES",PT -  TV SERIES
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TV SERIES" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVSERIES.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TV SERIES
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8044
-#EXTINF:-1 tvg-ID="tvseries.pt" tvg-name="PT -  TV SERIES HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVSERIES.png" group-title="|PT| FILMES E SÉRIES",PT -  TV SERIES HD
+#EXTINF:-1 tvg-ID="tvseries.pt" tvg-name="PT -  TV SERIES HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVSERIES.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TV SERIES HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8045
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  HOLLYWOOD HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/HOLLYWOODHD.png" group-title="|PT| FILMES E SÉRIES",PT -  HOLLYWOOD HD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  HOLLYWOOD HD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/HOLLYWOODHD.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  HOLLYWOOD HD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8048
-#EXTINF:-1 tvg-ID="cinemundo.pt" tvg-name="PT -  CINEMUNDO" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/CINEMUNDO.png" group-title="|PT| FILMES E SÉRIES",PT -  CINEMUNDO
+#EXTINF:-1 tvg-ID="cinemundo.pt" tvg-name="PT -  CINEMUNDO" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/CINEMUNDO.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  CINEMUNDO
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8046
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  HOLLYWOOD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/HOLLYWOODHD.png" group-title="|PT| FILMES E SÉRIES",PT -  HOLLYWOOD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  HOLLYWOOD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/HOLLYWOODHD.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  HOLLYWOOD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8047
-#EXTINF:-1 tvg-ID="ext" tvg-name="##### PT - FILMES SD #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/PORTUGAL.png" group-title="|PT| FILMES E SÉRIES",##### PT - FILMES SD #####
+#EXTINF:-1 tvg-ID="ext" tvg-name="##### PT - FILMES SD #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/PORTUGAL.png" group-title="|PT| FILMES E SÃ‰RIES",##### PT - FILMES SD #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/286416
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX COMEDY SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCOMEDY.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX COMEDY SD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX COMEDY SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCOMEDY.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX COMEDY SD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/286392
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX CRIME SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCRIME.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX CRIME SD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX CRIME SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCRIME.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX CRIME SD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/286391
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX LIFE SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXLIFE.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX LIFE SD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX LIFE SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXLIFE.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX LIFE SD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/286390
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXHD.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX SD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXHD.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX SD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/286389
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX MOVIES SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXMOVIES.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX MOVIES SD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX MOVIES SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXMOVIES.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX MOVIES SD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/286388
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE ACTION SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEACTION.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE ACTION SD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE ACTION SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEACTION.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE ACTION SD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/286358
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE EDITION SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEEDITION.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE EDITION SD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE EDITION SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEEDITION.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE EDITION SD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/286357
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE EMOTION SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEEMOTION.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE EMOTION SD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE EMOTION SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEEMOTION.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE EMOTION SD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/286356
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE TOP SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINETOP.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE TOP SD
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE TOP SD" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINETOP.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE TOP SD
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/286355
-#EXTINF:-1 tvg-ID="ext" tvg-name="##### PT-NOS CINEMA #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/PORTUGAL.png" group-title="|PT| FILMES E SÉRIES",##### PT-NOS CINEMA #####
+#EXTINF:-1 tvg-ID="ext" tvg-name="##### PT-NOS CINEMA #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/PORTUGAL.png" group-title="|PT| FILMES E SÃ‰RIES",##### PT-NOS CINEMA #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287243
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXHD.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXHD.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287242
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX LIFE HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXLIFE.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX LIFE HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX LIFE HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXLIFE.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX LIFE HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287241
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX CRIME HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCRIME.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX CRIME HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX CRIME HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCRIME.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX CRIME HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287240
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX COMEDY HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCOMEDY.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX COMEDY HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX COMEDY HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCOMEDY.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX COMEDY HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287239
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX COMEDY NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCOMEDY.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX COMEDY NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX COMEDY NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXCOMEDY.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX COMEDY NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287238
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX MOVIES HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXMOVIES.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX MOVIES HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX MOVIES HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXMOVIES.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX MOVIES HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287237
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX MOVIES NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXMOVIES.png" group-title="|PT| FILMES E SÉRIES",PT -  FOX MOVIES NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  FOX MOVIES NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/FOXMOVIES.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  FOX MOVIES NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287236
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  HOLLYWOOD HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/HOLLYWOODHD.png" group-title="|PT| FILMES E SÉRIES",PT -  HOLLYWOOD HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  HOLLYWOOD HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/HOLLYWOODHD.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  HOLLYWOOD HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287235
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE ACTION HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEACTION.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE ACTION HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE ACTION HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEACTION.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE ACTION HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287234
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE EDITION HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEEDITION.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE EDITION HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE EDITION HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEEDITION.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE EDITION HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287233
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE EMOTION HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEEMOTION.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE EMOTION HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE EMOTION HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINEEMOTION.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE EMOTION HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287232
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE TOP HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINETOP.png" group-title="|PT| FILMES E SÉRIES",PT -  TVCINE TOP HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  TVCINE TOP HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/TVCINETOP.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  TVCINE TOP HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287231
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  AXN HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AXN.png" group-title="|PT| FILMES E SÉRIES",PT -  AXN HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  AXN HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AXN.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  AXN HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287230
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  AXN MOVIES HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AXNMOVIES.png" group-title="|PT| FILMES E SÉRIES",PT -  AXN MOVIES HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  AXN MOVIES HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AXNMOVIES.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  AXN MOVIES HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287229
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  AXN WHITE HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AXNWHITE.png" group-title="|PT| FILMES E SÉRIES",PT -  AXN WHITE HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  AXN WHITE HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/AXNWHITE.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  AXN WHITE HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287228
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  CINEMUNDO HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/CINEMUNDO.png" group-title="|PT| FILMES E SÉRIES",PT -  CINEMUNDO HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  CINEMUNDO HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/CINEMUNDO.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  CINEMUNDO HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287227
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  CINEMUNDO NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/CINEMUNDO.png" group-title="|PT| FILMES E SÉRIES",PT -  CINEMUNDO NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  CINEMUNDO NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/CINEMUNDO.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  CINEMUNDO NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287226
-#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  NOS STUDIOS HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/NOSSTUDIO.png" group-title="|PT| FILMES E SÉRIES",PT -  NOS STUDIOS HD NOS
+#EXTINF:-1 tvg-ID="ext" tvg-name="PT -  NOS STUDIOS HD NOS" tvg-logo="http://logo.ottporsche.info:8080/logos/PORTUGAL/NOSSTUDIO.png" group-title="|PT| FILMES E SÃ‰RIES",PT -  NOS STUDIOS HD NOS
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/287225
 #EXTINF:-1 tvg-ID="ext" tvg-name="##### PT - CULTURA HD #####" tvg-logo="http://logo.ottporsche.info:8080/logos/CTGLOGOS/PORTUGAL.png" group-title="|PT| DOCUMENTARIOS",##### PT - CULTURA HD #####
 http://line.porschetv.net:80/WRY6V23OJR/8VJROCNUPB/8043
